@@ -1,6 +1,6 @@
 ---
 layout: model
-title: Overinformativeness
+title: SetencePolarityAsymmetry
 model-status: code
 model-category: Reasoning about Reasoning
 model-tags: language, pragmatics, overinformativeness
